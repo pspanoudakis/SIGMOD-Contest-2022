@@ -79,15 +79,6 @@ Advisors:
 
 <p>
     <u>Example of dataset X<sub>i</sub></u>
-    <style>
-        table {
-        border-collapse:collapse
-        }
-        td, th {
-        border:1px solid #ddd;
-        padding:8px;
-        }
-    </style>
 </p>
 <table>
     <tbody>
